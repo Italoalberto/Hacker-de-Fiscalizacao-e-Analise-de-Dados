@@ -11,10 +11,9 @@ asad
 ``` bash
 ├── README.md                                 <- Este documento
 ├── Remuneração_Executivo.ipynb.ipynb         <- Google Colab notebook com a análise realizada
-├── dados                                     <- Diretório onde colocar os dados (baixar dos links abaixo)
+├── dados                                     <- Diretório onde colocar os dados (baixar do link abaixo)
 ```
-                           <- Diretório com os arquivos CSV produzidos pela análise ou para a visualização
-
+                          
 ## 3. Fonte de dados
 
 Os dados utilizados nessa análise foram retirados do site do Atlas do Estado Brasileiro [IPEA](https://www.ipea.gov.br/atlasestado/filtros-series), com seleção da série de dados *Total de vínculos civis ativos no Executivo federal, por sexo e cor ou raça (1999-2020)* como base exclusiva desse projeto.
