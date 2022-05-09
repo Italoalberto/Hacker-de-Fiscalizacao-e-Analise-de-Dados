@@ -17,7 +17,7 @@ asad
 
 ## 3. Fonte de dados
 
-Os dados utilizados nessa análise foram retirados do site do Atlas do Estado Brasileiro [IPEA](https://www.ipea.gov.br/atlasestado/filtros-series), 
+Os dados utilizados nessa análise foram retirados do site do Atlas do Estado Brasileiro [IPEA](https://www.ipea.gov.br/atlasestado/filtros-series), com seleção da série de dados *Total de vínculos civis ativos no Executivo federal, por sexo e cor ou raça (1999-2020)* como base exclusiva desse projeto.
 
 ## Autoria
 Italo Alberto
