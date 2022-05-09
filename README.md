@@ -6,7 +6,6 @@ A proposta desse projeto é realizar uma breve análise sobre a evolução da re
 
 ## 2. Estrutura do projeto
 
-asad
 
 ``` bash
 ├── README.md                                 <- Este documento
