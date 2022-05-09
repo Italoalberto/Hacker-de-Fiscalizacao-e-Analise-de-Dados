@@ -7,10 +7,10 @@ A proposta desse projeto é realizar uma breve análise sobre a evolução da re
 ## 2. Estrutura do projeto
 
 
-``` bash
+```
 ├── README.md                                 <- Este documento
 ├── Remuneração_Executivo.ipynb.ipynb         <- Google Colab notebook com a análise realizada
-├── dados                                     <- Diretório onde colocar os dados (baixar do link abaixo)
+├── dados                                     <- Diretório onde colocar os dados (baixar no link abaixo)
 ```
                           
 ## 3. Fonte de dados
