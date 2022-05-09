@@ -17,7 +17,7 @@ asad
 
 ## 3. Fonte de dados
 
-Os dados utilizados nessa análise foram retirados do site do Atlas do Estado Brasileiro ([IPEA])(https://www.ipea.gov.br/atlasestado/filtros-series), 
+Os dados utilizados nessa análise foram retirados do site do Atlas do Estado Brasileiro [IPEA](https://www.ipea.gov.br/atlasestado/filtros-series), 
 
 ## Autoria
 Italo Alberto
